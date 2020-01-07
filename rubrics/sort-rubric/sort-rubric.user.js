@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Sort a Rubric
-// @namespace   https://github.com/jamesjonesmath/canvancement
+// @namespace   https://github.com/madarp/canvancement
 // @description This program allows the user to sort rubric criteria
 // @include     https://*.kenzie.academy/courses/*/rubrics/*
 // @version     3
